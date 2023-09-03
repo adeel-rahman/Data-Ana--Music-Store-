@@ -1,4 +1,4 @@
-# Data-Ana--Music-Store-
+# Data-Ana--Music-Store
 <br>
 Data Analyst Profile Project (Music Store)
 <br>
